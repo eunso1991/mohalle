@@ -17,7 +17,7 @@
     "react-youtube": "^7.14.0",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://crenew.cafe24.com/DINO_03/jes",
+  "homepage": "http://eunso1991.github.io/mohalle",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
