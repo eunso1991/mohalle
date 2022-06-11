@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/mohalle/static/css/main.53e86e4b.css",
+    "main.js": "/mohalle/static/js/main.52e596ee.js",
+    "static/media/bg_food.png": "/mohalle/static/media/bg_food.546b7862932f9b21e0f6.png",
+    "static/media/bg_mountain.png": "/mohalle/static/media/bg_mountain.7f1692b5b89200645844.png",
+    "static/media/bg_movie.png": "/mohalle/static/media/bg_movie.100e114a1a735495ecfb.png",
+    "static/media/bg_book.png": "/mohalle/static/media/bg_book.6cb10ed0bf4a6223e8ee.png",
+    "index.html": "/mohalle/index.html",
+    "main.53e86e4b.css.map": "/mohalle/static/css/main.53e86e4b.css.map",
+    "main.52e596ee.js.map": "/mohalle/static/js/main.52e596ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53e86e4b.css",
+    "static/js/main.52e596ee.js"
+  ]
+}
