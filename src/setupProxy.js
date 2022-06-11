@@ -8,7 +8,7 @@ module.exports = function(app) {
     })
   );
   app.use(
-    '/mohalle/openapi',
+    '/openapi',
     createProxyMiddleware({
       target: 'http://openapi.forest.go.kr/',
       changeOrigin: true,
